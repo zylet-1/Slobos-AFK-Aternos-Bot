@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "crosslifesteal.falixsrv.me",
+    "port": 25123,
     "version": "",
     "try-creative": false
   },
